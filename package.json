@@ -1,6 +1,6 @@
 {
   "name": "feature_spotify_dcutiyama",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NODEJS API for connection to Spotify API",
   "main": "index.js",
   "scripts": {
